@@ -12,7 +12,7 @@ def link
   phrase = "It's Dangerous To Go Alone! Take This."
 
 
-
+any_phrase
 
 
 
