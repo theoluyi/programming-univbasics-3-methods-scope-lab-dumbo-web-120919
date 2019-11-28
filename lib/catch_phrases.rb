@@ -13,8 +13,8 @@ def link
   puts phrase
 end
 
-def any_phrase(arg)
-  arg
+def any_phrase(phrase)
+  puts phrase 
 end
 
 
