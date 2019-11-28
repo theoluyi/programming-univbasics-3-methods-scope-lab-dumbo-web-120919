@@ -1,16 +1,22 @@
 def mario
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  phrase = 
   puts phrase
 end
 
 def toadstool
+  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
 end
 
 
 
 
-# def mario
+
+
+
+
+
+# def mario 
 #   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 #   puts phrase
 # end
